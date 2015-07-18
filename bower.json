@@ -1,0 +1,26 @@
+{
+  "name": "multi-patterns-mask",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Monstro13/multi-patterns-mask",
+  "authors": [
+    "Monstro13"
+  ],
+  "description": "angulars directive for check entered characters",
+  "keywords": [
+    "mask",
+    "ngpattern",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Monstro13/multi-patterns-mask.git"
+  }
+}
