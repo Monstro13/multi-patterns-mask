@@ -1,5 +1,7 @@
 # multi-patterns-mask
 ## angulars directive for check entered characters
+##
+## live demo http://output.jsbin.com/fesusu/1
 ### Installation
 #### Bower
 `bower install multi-patterns-mask --save`
